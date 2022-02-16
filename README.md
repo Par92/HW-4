@@ -9,10 +9,9 @@ Code Quiz
 - At this point the game resets and the user is able to play again.
 
 
-- link 
-  https://par92.github.io/HW-4/ 
+- link https://par92.github.io/HW-4/
 
-- screenshot 
+- screenshot https://github.com/Par92/HW-4/blob/main/Assets/Screenshot%202022-02-16%20150053.png
 
 
 
